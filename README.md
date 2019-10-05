@@ -1,2 +1,2 @@
-# sma-workshop
-Some material for the Social Media Analytics Workshop
+# SMA Workshop Material
+Material for the Social Media Analytics Workshop
